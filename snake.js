@@ -15,7 +15,7 @@ var old_tx = tx, old_ty = ty;
 var digesting = 0;
 var LOOP;
 var playing = false;
-var interval = 80; // Game Level
+var interval = 40; // Game Level
 
 paint();
 function init()
